@@ -16,8 +16,8 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/poloLogo.jpg',
-      name: '保罗yyds',
-			description: `Contact Me <a href="#" onclick="alert(请加wx:bllh888') class="text-blue-500" target="_blank" >wx: bllh888</a>`,
+      name: '贾维斯',
+			description: ` <div onclick="alert(微信: yaqingwang123') class="text-blue-500" target="_blank" >联系我</div>`,
     },
   }
 }
